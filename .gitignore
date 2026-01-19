@@ -1,0 +1,4 @@
+__pycache__/
+hotel.db
+*.pyc
+.env
